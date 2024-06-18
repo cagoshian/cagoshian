@@ -6,7 +6,11 @@
 <h2>Contact</h2>
 
 <div align="center">
-<a href="https://t.me/cagoshian" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40" height="40"/></a> 
+<a href="https://t.me/cagoshian" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/512px-Telegram_2019_Logo.svg.png" alt="Telegram" width="40" height="40"/></a><br> @cagoshian
+</div>
+<br>
+<div align="center">
+<a href="https://discord.com" target="_blank"> <img src="https://static.vecteezy.com/system/resources/previews/023/986/612/non_2x/discord-logo-discord-logo-transparent-discord-icon-transparent-free-free-png.png" alt="Discord" width="60" height="60"/></a><br> @cagoshian
 </div>
 
 <br><br>
